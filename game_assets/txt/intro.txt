@@ -1,0 +1,5 @@
+Welcome to the addition challenge game!
+
+In this game, you will be given a random number between 1 and 10, and your goal is to come up with as many additions with two numbers that add up to the given number. The more additions you can come up with, the higher your score will be! You'll have a limited amount of time to think of as many addition variations as possible, so get ready to put your math skills to the test. 
+
+Are you up for the challenge? Let's begin!
